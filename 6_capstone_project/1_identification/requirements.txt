@@ -1,0 +1,8 @@
+watermark
+numpy
+scipy
+pandas
+matplotlib
+statsmodels
+sklearn
+tqdm
