@@ -6,3 +6,5 @@ matplotlib
 statsmodels
 sklearn
 tqdm
+jupyter
+scikit-learn
